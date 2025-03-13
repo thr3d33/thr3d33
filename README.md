@@ -49,6 +49,9 @@ Do you know where your towel is?
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="40" alt="googlecloud logo"  />
+   <img width="12" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Huawei%20Cloud%20-%20%23cf0a2c?style=for-the-badge&logo=huawei&logoColor=huawei" height="40" alt="huaweicloud logo">
+
 </div>
 
 ### GitHub Stats:

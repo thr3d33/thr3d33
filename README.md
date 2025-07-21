@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <a href="https://thr3d33.github.io">blog</a> ⏺
-    <a href="https://github.com/thr3d33/docker-compose">docker-compose</a> ⏺    
+    <a href="https://github.com/thr3d33/docker-compose">compose</a> ⏺    
     <a href="https://github.com/thr3d33/dotfiles">dotfiles</a>  
   </samp>
 </p>

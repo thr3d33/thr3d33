@@ -6,5 +6,5 @@
     <a href="https://github.com/thr3d33/dotfiles">dotfiles</a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thr3d33/thr3d33/refs/heads/development/thr3d33-BG.webp"/>
+  <img src="https://raw.githubusercontent.com/thr3d33/thr3d33/refs/heads/development/thr3d33-banner.webp"/>
 </div>

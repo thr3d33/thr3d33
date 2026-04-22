@@ -1,0 +1,425 @@
+{
+  "subject": "2010s–2020s Music Quiz (Advanced, Global & South African)",
+  "questions": [
+    {
+      "question": "Who released the album 'To Pimp a Butterfly' (2015)?",
+      "answers": [
+        "Kendrick Lamar",
+        "J. Cole",
+        "Drake",
+        "Kanye West"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which South African artist released the global hit 'Jerusalema' (2019)?",
+      "answers": [
+        "Cassper Nyovest",
+        "Master KG",
+        "Black Coffee",
+        "DJ Maphorisa"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Who is featured alongside Master KG on 'Jerusalema'?",
+      "answers": [
+        "Sho Madjozi",
+        "Nomcebo Zikode",
+        "Makhadzi",
+        "Busiswa"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which artist released 'Blinding Lights' (2019)?",
+      "answers": [
+        "Drake",
+        "The Weeknd",
+        "Post Malone",
+        "Frank Ocean"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African DJ became the first African to win a Grammy (Best Dance/Electronic Album 2022)?",
+      "answers": [
+        "Black Coffee",
+        "DJ Fresh",
+        "Shimza",
+        "Prince Kaybee"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which artist released the album 'Future Nostalgia' (2020)?",
+      "answers": [
+        "Dua Lipa",
+        "Billie Eilish",
+        "Lorde",
+        "Ariana Grande"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African genre blends house, jazz, and lounge influences and gained global popularity in the 2010s?",
+      "answers": [
+        "Kwaito",
+        "Amapiano",
+        "Gqom",
+        "Maskandi"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Who released 'This Is America' (2018)?",
+      "answers": [
+        "Kendrick Lamar",
+        "Childish Gambino",
+        "J. Cole",
+        "Tyler, The Creator"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African artist is known for the album 'Pink Panther' (2020)?",
+      "answers": [
+        "Sho Madjozi",
+        "Moonchild Sanelly",
+        "Busiswa",
+        "Makhadzi"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which artist released 'Channel Orange' (2012)?",
+      "answers": [
+        "Frank Ocean",
+        "The Weeknd",
+        "Miguel",
+        "Anderson .Paak"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which South African artist had a hit with 'John Cena' (2019)?",
+      "answers": [
+        "Sho Madjozi",
+        "Makhadzi",
+        "Busiswa",
+        "Nasty C"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Who released the album '25' (2015)?",
+      "answers": [
+        "Adele",
+        "Sia",
+        "Sam Smith",
+        "Lana Del Rey"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African rapper released 'Strings and Bling' (2018)?",
+      "answers": [
+        "Nasty C",
+        "AKA",
+        "Cassper Nyovest",
+        "Kwesta"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which artist released 'ANTI' (2016)?",
+      "answers": [
+        "Beyoncé",
+        "Rihanna",
+        "Nicki Minaj",
+        "Kehlani"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African producer is associated with the rise of Gqom?",
+      "answers": [
+        "DJ Lag",
+        "Black Coffee",
+        "Kabza De Small",
+        "Oskido"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which artist released 'When We All Fall Asleep, Where Do We Go?' (2019)?",
+      "answers": [
+        "Billie Eilish",
+        "Halsey",
+        "Lorde",
+        "Grimes"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African duo are key pioneers of Amapiano?",
+      "answers": [
+        "Major League DJz",
+        "Die Antwoord",
+        "Distruction Boyz",
+        "Black Motion"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which artist released 'Astroworld' (2018)?",
+      "answers": [
+        "Travis Scott",
+        "Drake",
+        "Future",
+        "Post Malone"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African artist released 'Touch My Blood' (2018)?",
+      "answers": [
+        "AKA",
+        "Cassper Nyovest",
+        "Kwesta",
+        "Nasty C"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which artist released 'Born This Way' (2011)?",
+      "answers": [
+        "Lady Gaga",
+        "Katy Perry",
+        "Rihanna",
+        "Madonna"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African artist released 'King Monada – Malwedhe' (2018 viral hit)?",
+      "answers": [
+        "King Monada",
+        "Makhadzi",
+        "Sho Madjozi",
+        "Prince Kaybee"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which artist released 'DAMN.' (2017)?",
+      "answers": [
+        "Kendrick Lamar",
+        "J. Cole",
+        "Logic",
+        "Drake"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African DJ duo released 'Sister Bethina' revival (2019)?",
+      "answers": [
+        "MFR Souls",
+        "Kabza De Small & DJ Maphorisa",
+        "Major League DJz",
+        "Black Motion"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which artist released 'Purpose' (2015)?",
+      "answers": [
+        "Justin Bieber",
+        "Shawn Mendes",
+        "Ed Sheeran",
+        "Zayn"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African artist is known for the hit 'Fetch Your Life' (2019)?",
+      "answers": [
+        "Prince Kaybee",
+        "Black Coffee",
+        "Shimza",
+        "DJ Tira"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which artist released 'Lover' (2019)?",
+      "answers": [
+        "Taylor Swift",
+        "Ariana Grande",
+        "Selena Gomez",
+        "Dua Lipa"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African rapper is known for 'Spirit' (Black Panther soundtrack)?",
+      "answers": [
+        "Nasty C",
+        "Babes Wodumo",
+        "Busiswa",
+        "Kwesta"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which artist released 'After Hours' (2020)?",
+      "answers": [
+        "The Weeknd",
+        "Drake",
+        "Post Malone",
+        "Frank Ocean"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African artist is known for 'Dumalisa' and amapiano hits?",
+      "answers": [
+        "Sha Sha",
+        "Makhadzi",
+        "Busiswa",
+        "Sho Madjozi"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which artist released 'Views' (2016)?",
+      "answers": [
+        "Drake",
+        "Kanye West",
+        "Future",
+        "Jay-Z"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African artist is known as the 'Queen of Gqom'?",
+      "answers": [
+        "Babes Wodumo",
+        "Busiswa",
+        "Makhadzi",
+        "Sho Madjozi"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which artist released 'Fine Line' (2019)?",
+      "answers": [
+        "Harry Styles",
+        "Niall Horan",
+        "Shawn Mendes",
+        "Zayn"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African DJ is associated with 'Jerusalema' remixes and amapiano global expansion?",
+      "answers": [
+        "Kabza De Small",
+        "DJ Maphorisa",
+        "Shimza",
+        "Black Coffee"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which artist released 'thank u, next' (2019)?",
+      "answers": [
+        "Ariana Grande",
+        "Dua Lipa",
+        "Billie Eilish",
+        "Halsey"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which South African artist released 'African Bad Gyal' (2020)?",
+      "answers": [
+        "Moonchild Sanelly",
+        "Sho Madjozi",
+        "Busiswa",
+        "Makhadzi"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 20
+    }
+  ]
+}

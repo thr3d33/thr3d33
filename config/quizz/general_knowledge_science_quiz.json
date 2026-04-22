@@ -1,0 +1,365 @@
+{
+  "subject": "General Knowledge Science Quiz",
+  "questions": [
+    {
+      "question": "What planet is known as the Red Planet?",
+      "answers": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "answers": [
+        "O2",
+        "H2O",
+        "CO2",
+        "HO"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What force keeps us on the ground?",
+      "answers": [
+        "Magnetism",
+        "Friction",
+        "Gravity",
+        "Inertia"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What part of the cell contains genetic material?",
+      "answers": [
+        "Nucleus",
+        "Cytoplasm",
+        "Membrane",
+        "Ribosome"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the speed of light approximately?",
+      "answers": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "1,000 km/s",
+        "3,000 km/s"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which planet is the largest in our solar system?",
+      "answers": [
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Neptune"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answers": [
+        "Au",
+        "Ag",
+        "Gd",
+        "Go"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What organ pumps blood through the body?",
+      "answers": [
+        "Lungs",
+        "Brain",
+        "Heart",
+        "Liver"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What type of animal is a frog?",
+      "answers": [
+        "Reptile",
+        "Mammal",
+        "Amphibian",
+        "Fish"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the center of an atom called?",
+      "answers": [
+        "Electron",
+        "Proton",
+        "Nucleus",
+        "Neutron"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What planet is closest to the Sun?",
+      "answers": [
+        "Venus",
+        "Mercury",
+        "Earth",
+        "Mars"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "answers": [
+        "90°C",
+        "80°C",
+        "100°C",
+        "120°C"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What gas do humans need to breathe?",
+      "answers": [
+        "Carbon Dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What part of the human body controls the nervous system?",
+      "answers": [
+        "Heart",
+        "Brain",
+        "Lungs",
+        "Kidneys"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which planet is known for its rings?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Uranus"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the main gas found in the air we breathe?",
+      "answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What kind of energy comes from the Sun?",
+      "answers": [
+        "Nuclear",
+        "Solar",
+        "Wind",
+        "Geothermal"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "answers": [
+        "Gold",
+        "Iron",
+        "Diamond",
+        "Quartz"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What part of the plant conducts photosynthesis?",
+      "answers": [
+        "Roots",
+        "Stem",
+        "Leaves",
+        "Flowers"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "answers": [
+        "Na",
+        "So",
+        "Sn",
+        "S"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which blood cells fight infection?",
+      "answers": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the nearest star to Earth?",
+      "answers": [
+        "Alpha Centauri",
+        "Sirius",
+        "The Sun",
+        "Betelgeuse"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is HCl commonly known as?",
+      "answers": [
+        "Sulfuric acid",
+        "Hydrochloric acid",
+        "Nitric acid",
+        "Acetic acid"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What type of rock is formed by cooled lava?",
+      "answers": [
+        "Sedimentary",
+        "Metamorphic",
+        "Igneous",
+        "Fossil"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the process by which plants make food?",
+      "answers": [
+        "Respiration",
+        "Photosynthesis",
+        "Digestion",
+        "Fermentation"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the unit of electric current?",
+      "answers": [
+        "Volt",
+        "Watt",
+        "Ampere",
+        "Ohm"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which organ is responsible for filtering blood?",
+      "answers": [
+        "Heart",
+        "Liver",
+        "Kidneys",
+        "Lungs"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What particle has a negative charge?",
+      "answers": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Photon"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What galaxy do we live in?",
+      "answers": [
+        "Andromeda Galaxy",
+        "Whirlpool Galaxy",
+        "Milky Way Galaxy",
+        "Sombrero Galaxy"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    }
+  ]
+}

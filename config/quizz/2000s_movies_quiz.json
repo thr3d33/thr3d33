@@ -1,0 +1,305 @@
+{
+  "subject": "2000s Movies Quiz",
+  "questions": [
+    {
+      "question": "Which movie won the Academy Award for Best Picture for films of 2000?",
+      "answers": [
+        "Gladiator",
+        "Erin Brockovich",
+        "Traffic",
+        "Crouching Tiger, Hidden Dragon"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Who played Jack Sparrow in 'Pirates of the Caribbean: The Curse of the Black Pearl' (2003)?",
+      "answers": [
+        "Orlando Bloom",
+        "Johnny Depp",
+        "Geoffrey Rush",
+        "Jude Law"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2008 movie features the Joker played by Heath Ledger?",
+      "answers": [
+        "Batman Begins",
+        "The Dark Knight",
+        "Iron Man",
+        "Watchmen"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What is the highest-grossing film released in the 2000s decade?",
+      "answers": [
+        "Avatar",
+        "Titanic",
+        "The Dark Knight",
+        "Shrek 2"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which animated film (2008) features a small trash-compacting robot?",
+      "answers": [
+        "Robots",
+        "WALL-E",
+        "Finding Nemo",
+        "Up"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "In 'The Matrix Reloaded' (2003), what is the name of the protagonist?",
+      "answers": [
+        "Morpheus",
+        "Neo",
+        "Trinity",
+        "Smith"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2001 movie begins the Harry Potter film series?",
+      "answers": [
+        "Harry Potter and the Chamber of Secrets",
+        "Harry Potter and the Goblet of Fire",
+        "Harry Potter and the Sorcerer's Stone",
+        "Harry Potter and the Prisoner of Azkaban"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Who directed 'The Lord of the Rings: The Fellowship of the Ring' (2001)?",
+      "answers": [
+        "Peter Jackson",
+        "James Cameron",
+        "Steven Spielberg",
+        "Ridley Scott"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2009 sci-fi film is set on the planet Pandora?",
+      "answers": [
+        "Star Trek",
+        "Avatar",
+        "District 9",
+        "Moon"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2002 film musical won the Academy Award for Best Picture?",
+      "answers": [
+        "Moulin Rouge!",
+        "Chicago",
+        "Dreamgirls",
+        "The Pianist"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Who played Spider-Man in 'Spider-Man' (2002)?",
+      "answers": [
+        "Tobey Maguire",
+        "Andrew Garfield",
+        "Tom Holland",
+        "Jake Gyllenhaal"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2004 film features a high school mathlete named Cady Heron?",
+      "answers": [
+        "Clueless",
+        "Mean Girls",
+        "Easy A",
+        "She's the Man"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2006 film follows the lives of two rival magicians, played by Hugh Jackman and Christian Bale?",
+      "answers": [
+        "The Illusionist",
+        "The Prestige",
+        "Now You See Me",
+        "Sherlock Holmes"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which Pixar film (2003) features a clownfish searching for his son?",
+      "answers": [
+        "Shark Tale",
+        "Finding Nemo",
+        "The Incredibles",
+        "Cars"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2000 film stars Russell Crowe as a Roman general turned gladiator?",
+      "answers": [
+        "Troy",
+        "Gladiator",
+        "Kingdom of Heaven",
+        "Alexander"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2005 film rebooted the Batman franchise with Christian Bale?",
+      "answers": [
+        "The Dark Knight",
+        "Batman Begins",
+        "Batman Returns",
+        "Justice League"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2007 film is about a rat who becomes a chef in Paris?",
+      "answers": [
+        "Flushed Away",
+        "Ratatouille",
+        "Over the Hedge",
+        "Surf's Up"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2001 film features the character Shrek?",
+      "answers": [
+        "Shrek",
+        "Monsters, Inc.",
+        "Ice Age",
+        "Madagascar"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2008 film launched the Marvel Cinematic Universe?",
+      "answers": [
+        "The Incredible Hulk",
+        "Iron Man",
+        "Thor",
+        "Captain America: The First Avenger"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2004 film involves memory erasure and stars Jim Carrey and Kate Winslet?",
+      "answers": [
+        "The Butterfly Effect",
+        "Eternal Sunshine of the Spotless Mind",
+        "Memento",
+        "Vanilla Sky"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which 2002 film features a ring that must be destroyed in Mount Doom?",
+      "answers": [
+        "The Two Towers",
+        "The Fellowship of the Ring",
+        "The Return of the King",
+        "Eragon"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2003 sequel concludes 'The Lord of the Rings' trilogy?",
+      "answers": [
+        "The Two Towers",
+        "The Return of the King",
+        "The Hobbit",
+        "The Fellowship of the Ring"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2007 film adaptation features Daniel Day-Lewis as an oilman?",
+      "answers": [
+        "No Country for Old Men",
+        "There Will Be Blood",
+        "The Assassination of Jesse James",
+        "Michael Clayton"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2001 animated film features monsters generating power by scaring children?",
+      "answers": [
+        "Shrek",
+        "Monsters, Inc.",
+        "Toy Story 2",
+        "A Bug's Life"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2009 film tells the story of a bomb disposal team in Iraq and won Best Picture?",
+      "answers": [
+        "American Sniper",
+        "The Hurt Locker",
+        "Jarhead",
+        "Black Hawk Down"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 20
+    }
+  ]
+}

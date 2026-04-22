@@ -1,0 +1,231 @@
+{
+  "subject": "Lord of the Rings Quiz",
+  "questions": [
+    {
+      "question": "Who is the main protagonist of The Lord of the Rings?",
+      "answers": [
+        "Frodo Baggins",
+        "Aragorn",
+        "Gandalf",
+        "Legolas"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Sauron is a physical eye on top of a tower.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of Frodo's loyal companion?",
+      "answers": [
+        "Pippin",
+        "Merry",
+        "Samwise Gamgee",
+        "Boromir"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What is the name of the sword reforged for Aragorn?",
+      "answers": [
+        "Glamdring",
+        "Sting",
+        "Andúril",
+        "Orcrist"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "True or False: Legolas is a dwarf.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the One Ring primarily used for?",
+      "answers": [
+        "Healing",
+        "Invisibility and control",
+        "Flying",
+        "Time travel"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Who says 'You shall not pass!'?",
+      "answers": [
+        "Aragorn",
+        "Gandalf",
+        "Boromir",
+        "Elrond"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Hobbits are very tall creatures.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What creature is Gollum?",
+      "answers": [
+        "Elf",
+        "Dwarf",
+        "Corrupted Hobbit-like being",
+        "Wizard"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What is the capital city of Gondor?",
+      "answers": [
+        "Minas Tirith",
+        "Helm's Deep",
+        "Rivendell",
+        "Isengard"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Saruman is loyal to Gandalf.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What race is Gimli?",
+      "answers": [
+        "Elf",
+        "Human",
+        "Dwarf",
+        "Hobbit"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Who destroys the One Ring?",
+      "answers": [
+        "Frodo",
+        "Sam",
+        "Gollum",
+        "Aragorn"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "True or False: The Shire is the homeland of the elves.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of Aragorn's love interest?",
+      "answers": [
+        "Galadriel",
+        "Arwen",
+        "Eowyn",
+        "Tauriel"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What kind of creature is Treebeard?",
+      "answers": [
+        "Ent",
+        "Orc",
+        "Balrog",
+        "Dragon"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Boromir tries to take the Ring from Frodo.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of Gandalf's horse?",
+      "answers": [
+        "Shadowfax",
+        "Brego",
+        "Arod",
+        "Hasufel"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which land does Frodo travel to destroy the Ring?",
+      "answers": [
+        "Gondor",
+        "Rohan",
+        "Mordor",
+        "Rivendell"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Orcs are friendly creatures.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    }
+  ]
+}

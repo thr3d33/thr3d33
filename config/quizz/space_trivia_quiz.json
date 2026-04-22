@@ -1,0 +1,365 @@
+{
+  "subject": "Space Trivia Quiz",
+  "questions": [
+    {
+      "question": "What is the closest planet to the Sun?",
+      "answers": [
+        "Venus",
+        "Mercury",
+        "Earth",
+        "Mars"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answers": [
+        "Jupiter",
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answers": [
+        "Saturn",
+        "Earth",
+        "Jupiter",
+        "Neptune"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What galaxy do we live in?",
+      "answers": [
+        "Andromeda Galaxy",
+        "Whirlpool Galaxy",
+        "Milky Way Galaxy",
+        "Sombrero Galaxy"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of Earth's natural satellite?",
+      "answers": [
+        "Europa",
+        "The Moon",
+        "Titan",
+        "Phobos"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Who was the first human to walk on the Moon?",
+      "answers": [
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Neil Armstrong",
+        "Michael Collins"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which planet is famous for its rings?",
+      "answers": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the Sun primarily made of?",
+      "answers": [
+        "Liquid lava",
+        "Rock",
+        "Hydrogen and helium",
+        "Iron"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of the first artificial satellite launched into space?",
+      "answers": [
+        "Apollo 11",
+        "Voyager 1",
+        "Sputnik 1",
+        "Hubble"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which planet is known for its Great Red Spot?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "How long does Earth take to orbit the Sun?",
+      "answers": [
+        "24 hours",
+        "30 days",
+        "365 days",
+        "12 hours"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which planet is closest in size to Earth?",
+      "answers": [
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Neptune"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the hottest planet in our solar system?",
+      "answers": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "answers": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of NASA’s famous space telescope launched in 1990?",
+      "answers": [
+        "Kepler",
+        "Spitzer",
+        "Hubble Space Telescope",
+        "Chandra"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which planet is known as an ice giant?",
+      "answers": [
+        "Mars",
+        "Jupiter",
+        "Uranus",
+        "Mercury"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of the force that keeps planets in orbit around the Sun?",
+      "answers": [
+        "Magnetism",
+        "Friction",
+        "Gravity",
+        "Radiation"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which planet is farthest from the Sun?",
+      "answers": [
+        "Uranus",
+        "Neptune",
+        "Saturn",
+        "Pluto"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of the first man-made object to reach space?",
+      "answers": [
+        "Sputnik 1",
+        "V-2 rocket",
+        "Apollo 8",
+        "Explorer 1"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which mission first landed humans on the Moon?",
+      "answers": [
+        "Apollo 10",
+        "Apollo 11",
+        "Apollo 12",
+        "Apollo 13"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of the largest moon of Saturn?",
+      "answers": [
+        "Europa",
+        "Titan",
+        "Ganymede",
+        "Callisto"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which planet rotates on its side?",
+      "answers": [
+        "Mars",
+        "Uranus",
+        "Saturn",
+        "Earth"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the term for a rock from space that lands on Earth?",
+      "answers": [
+        "Asteroid",
+        "Comet",
+        "Meteorite",
+        "Nebula"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of the nearest galaxy to the Milky Way?",
+      "answers": [
+        "Andromeda Galaxy",
+        "Triangulum Galaxy",
+        "Whirlpool Galaxy",
+        "Sombrero Galaxy"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which planet has the shortest day (fastest rotation)?",
+      "answers": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What is the name of the boundary around a black hole beyond which nothing can escape?",
+      "answers": [
+        "Singularity",
+        "Event Horizon",
+        "Photon Sphere",
+        "Accretion Disk"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which space probe was the first to leave the solar system?",
+      "answers": [
+        "Voyager 1",
+        "Voyager 2",
+        "Pioneer 10",
+        "New Horizons"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What is the name of the first reusable spacecraft?",
+      "answers": [
+        "Apollo",
+        "Soyuz",
+        "Space Shuttle",
+        "Skylab"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which dwarf planet lies in the asteroid belt?",
+      "answers": [
+        "Pluto",
+        "Eris",
+        "Ceres",
+        "Haumea"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the primary source of energy for the Sun?",
+      "answers": [
+        "Chemical reactions",
+        "Nuclear fission",
+        "Nuclear fusion",
+        "Gravity"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "subject": "Harry Potter Quiz",
+  "questions": [
+    {
+      "question": "What house is Harry Potter sorted into?",
+      "answers": [
+        "Slytherin",
+        "Ravenclaw",
+        "Hufflepuff",
+        "Gryffindor"
+      ],
+      "solution": 3,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Draco Malfoy is in Hufflepuff.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of Harry's owl?",
+      "answers": [
+        "Crookshanks",
+        "Hedwig",
+        "Scabbers",
+        "Errol"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Who is the Half-Blood Prince?",
+      "answers": [
+        "Harry Potter",
+        "Tom Riddle",
+        "Severus Snape",
+        "Sirius Black"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "True or False: Voldemort has a nose.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What platform does the Hogwarts Express leave from?",
+      "answers": [
+        "Platform 9",
+        "Platform 10",
+        "Platform 9 3/4",
+        "Platform 8"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What position does Harry play in Quidditch?",
+      "answers": [
+        "Keeper",
+        "Chaser",
+        "Beater",
+        "Seeker"
+      ],
+      "solution": 3,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Hermione's parents are wizards.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of the Weasley twins?",
+      "answers": [
+        "Fred and George",
+        "Bill and Charlie",
+        "Percy and Ron",
+        "James and Sirius"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What creature is Aragog?",
+      "answers": [
+        "Dragon",
+        "Spider",
+        "Basilisk",
+        "Phoenix"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Dumbledore's first name is Albus.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What magical object shows your deepest desire?",
+      "answers": [
+        "Pensieve",
+        "Mirror of Erised",
+        "Time-Turner",
+        "Invisibility Cloak"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Who killed Dumbledore?",
+      "answers": [
+        "Draco Malfoy",
+        "Bellatrix Lestrange",
+        "Severus Snape",
+        "Voldemort"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "True or False: Ron's rat Scabbers is actually Peter Pettigrew.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What spell disarms an opponent?",
+      "answers": [
+        "Expelliarmus",
+        "Avada Kedavra",
+        "Lumos",
+        "Expecto Patronum"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What form does Harry's Patronus take?",
+      "answers": [
+        "Stag",
+        "Otter",
+        "Dog",
+        "Phoenix"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Sirius Black is Harry's father.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is Voldemort's real name?",
+      "answers": [
+        "Tom Marvolo Riddle",
+        "Tom Riddle Jr.",
+        "Marvolo Gaunt",
+        "Salazar Slytherin"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which house values intelligence and wit?",
+      "answers": [
+        "Gryffindor",
+        "Slytherin",
+        "Hufflepuff",
+        "Ravenclaw"
+      ],
+      "solution": 3,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: The Basilisk lives in the Forbidden Forest.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    }
+  ]
+}

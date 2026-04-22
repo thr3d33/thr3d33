@@ -1,0 +1,365 @@
+{
+  "subject": "General Knowledge Geography Quiz",
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        "Paris",
+        "Madrid",
+        "Rome",
+        "Berlin"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which is the largest continent by land area?",
+      "answers": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which river is the longest in the world?",
+      "answers": [
+        "Amazon River",
+        "Nile River",
+        "Yangtze River",
+        "Mississippi River"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Mount Everest is located in which mountain range?",
+      "answers": [
+        "Andes",
+        "Rocky Mountains",
+        "Himalayas",
+        "Alps"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the capital city of Japan?",
+      "answers": [
+        "Seoul",
+        "Tokyo",
+        "Kyoto",
+        "Osaka"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which country has the largest population in the world?",
+      "answers": [
+        "India",
+        "United States",
+        "China",
+        "Indonesia"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "answers": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which desert is the largest hot desert in the world?",
+      "answers": [
+        "Gobi Desert",
+        "Arabian Desert",
+        "Sahara Desert",
+        "Kalahari Desert"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which country is both in Europe and Asia?",
+      "answers": [
+        "Spain",
+        "Turkey",
+        "Egypt",
+        "Morocco"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "answers": [
+        "Toronto",
+        "Ottawa",
+        "Vancouver",
+        "Montreal"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which U.S. state is the largest by area?",
+      "answers": [
+        "Texas",
+        "California",
+        "Alaska",
+        "Montana"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "answers": [
+        "China",
+        "Thailand",
+        "Japan",
+        "South Korea"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which is the smallest country in the world?",
+      "answers": [
+        "Monaco",
+        "Vatican City",
+        "San Marino",
+        "Liechtenstein"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which continent is the Sahara Desert located on?",
+      "answers": [
+        "Asia",
+        "Africa",
+        "Australia",
+        "South America"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which river runs through London?",
+      "answers": [
+        "Seine",
+        "Danube",
+        "Thames",
+        "Rhine"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which country has the most natural lakes?",
+      "answers": [
+        "Canada",
+        "Russia",
+        "United States",
+        "Finland"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which African country has the largest population?",
+      "answers": [
+        "Egypt",
+        "South Africa",
+        "Nigeria",
+        "Kenya"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which mountain is the highest in Africa?",
+      "answers": [
+        "Mount Kenya",
+        "Mount Kilimanjaro",
+        "Atlas Mountains",
+        "Rwenzori Mountains"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which country is home to the Amazon rainforest?",
+      "answers": [
+        "Brazil",
+        "Peru",
+        "Colombia",
+        "All of the above"
+      ],
+      "solution": 3,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which European city is known as the City of Canals?",
+      "answers": [
+        "Amsterdam",
+        "Venice",
+        "Bruges",
+        "All of the above"
+      ],
+      "solution": 3,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which is the longest mountain range in the world?",
+      "answers": [
+        "Rocky Mountains",
+        "Himalayas",
+        "Andes",
+        "Alps"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "answers": [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Brasília",
+        "Salvador"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which country has the largest land area?",
+      "answers": [
+        "China",
+        "United States",
+        "Canada",
+        "Russia"
+      ],
+      "solution": 3,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which sea separates Europe and Africa?",
+      "answers": [
+        "Black Sea",
+        "Red Sea",
+        "Mediterranean Sea",
+        "Baltic Sea"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which country is known for the Great Barrier Reef?",
+      "answers": [
+        "Indonesia",
+        "Philippines",
+        "Australia",
+        "Thailand"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the capital of Egypt?",
+      "answers": [
+        "Cairo",
+        "Alexandria",
+        "Giza",
+        "Luxor"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which country is famous for fjords?",
+      "answers": [
+        "Sweden",
+        "Norway",
+        "Denmark",
+        "Iceland"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which U.S. city is known as the Big Apple?",
+      "answers": [
+        "Los Angeles",
+        "Chicago",
+        "New York City",
+        "Boston"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which continent has the most countries?",
+      "answers": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "South America"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}

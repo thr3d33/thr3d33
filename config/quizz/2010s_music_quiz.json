@@ -1,0 +1,365 @@
+{
+  "subject": "2010s Music Quiz",
+  "questions": [
+    {
+      "question": "Who released the hit song 'Shape of You' in 2017?",
+      "answers": [
+        "Ed Sheeran",
+        "Justin Bieber",
+        "Shawn Mendes",
+        "Sam Smith"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist is known for the album '1989' released in 2014?",
+      "answers": [
+        "Katy Perry",
+        "Taylor Swift",
+        "Ariana Grande",
+        "Lady Gaga"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which song by Luis Fonsi and Daddy Yankee became a global hit in 2017?",
+      "answers": [
+        "Bailando",
+        "Despacito",
+        "Mi Gente",
+        "Vivir Mi Vida"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Who performed 'Rolling in the Deep' (2010)?",
+      "answers": [
+        "Adele",
+        "Beyoncé",
+        "Rihanna",
+        "Sia"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which group released 'Uptown Funk' with Mark Ronson in 2014?",
+      "answers": [
+        "Maroon 5",
+        "Bruno Mars",
+        "One Direction",
+        "Coldplay"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released the album 'Lemonade' in 2016?",
+      "answers": [
+        "Rihanna",
+        "Beyoncé",
+        "Nicki Minaj",
+        "Doja Cat"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which band released 'Somebody That I Used to Know' (2011)?",
+      "answers": [
+        "Gotye",
+        "Fun.",
+        "Imagine Dragons",
+        "Foster the People"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which Canadian artist had hits like 'Sorry' and 'Love Yourself'?",
+      "answers": [
+        "Drake",
+        "The Weeknd",
+        "Justin Bieber",
+        "Shawn Mendes"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'Bad Guy' in 2019?",
+      "answers": [
+        "Billie Eilish",
+        "Lorde",
+        "Halsey",
+        "Dua Lipa"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which band released 'Radioactive' in 2012?",
+      "answers": [
+        "Coldplay",
+        "Imagine Dragons",
+        "Linkin Park",
+        "OneRepublic"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Who sang 'Firework' (2010)?",
+      "answers": [
+        "Katy Perry",
+        "Lady Gaga",
+        "Pink",
+        "Kesha"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'Blinding Lights' in 2019?",
+      "answers": [
+        "Drake",
+        "The Weeknd",
+        "Post Malone",
+        "Travis Scott"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which group was known for hits like 'What Makes You Beautiful'?",
+      "answers": [
+        "5 Seconds of Summer",
+        "One Direction",
+        "Jonas Brothers",
+        "BTS"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Who performed 'Royals' (2013)?",
+      "answers": [
+        "Lorde",
+        "Sia",
+        "Adele",
+        "Ellie Goulding"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which rapper released 'God's Plan' in 2018?",
+      "answers": [
+        "Kendrick Lamar",
+        "Drake",
+        "J. Cole",
+        "Future"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'Poker Face' (though popular in early 2010s charts)?",
+      "answers": [
+        "Lady Gaga",
+        "Katy Perry",
+        "Rihanna",
+        "Britney Spears"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which DJ released 'Wake Me Up' with Avicii in 2013?",
+      "answers": [
+        "Calvin Harris",
+        "Avicii",
+        "David Guetta",
+        "Zedd"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released the album 'Take Care' in 2011?",
+      "answers": [
+        "Drake",
+        "Kanye West",
+        "Jay-Z",
+        "Eminem"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which singer had the hit 'Chandelier' (2014)?",
+      "answers": [
+        "Sia",
+        "Adele",
+        "Lorde",
+        "Pink"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'Happy' in 2013?",
+      "answers": [
+        "Pharrell Williams",
+        "Bruno Mars",
+        "Justin Timberlake",
+        "Robin Thicke"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'Shake It Off' in 2014?",
+      "answers": [
+        "Taylor Swift",
+        "Katy Perry",
+        "Ariana Grande",
+        "Selena Gomez"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which group released 'Counting Stars' in 2013?",
+      "answers": [
+        "OneRepublic",
+        "Imagine Dragons",
+        "Maroon 5",
+        "Coldplay"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'Old Town Road' (remix) in 2019?",
+      "answers": [
+        "Lil Nas X",
+        "Post Malone",
+        "Travis Scott",
+        "Drake"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'Someone Like You' in 2011?",
+      "answers": [
+        "Adele",
+        "Sia",
+        "Beyoncé",
+        "Rihanna"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'Roar' in 2013?",
+      "answers": [
+        "Katy Perry",
+        "Lady Gaga",
+        "Pink",
+        "Miley Cyrus"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'Havana' in 2017?",
+      "answers": [
+        "Camila Cabello",
+        "Dua Lipa",
+        "Selena Gomez",
+        "Cardi B"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'We Found Love' in 2011?",
+      "answers": [
+        "Rihanna",
+        "Beyoncé",
+        "Kesha",
+        "Lady Gaga"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'Starboy' in 2016?",
+      "answers": [
+        "The Weeknd",
+        "Drake",
+        "Frank Ocean",
+        "Post Malone"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'All of Me' in 2013?",
+      "answers": [
+        "John Legend",
+        "Sam Smith",
+        "Ed Sheeran",
+        "Bruno Mars"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which artist released 'Closer' with Halsey in 2016?",
+      "answers": [
+        "The Chainsmokers",
+        "Calvin Harris",
+        "Zedd",
+        "Marshmello"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    }
+  ]
+}

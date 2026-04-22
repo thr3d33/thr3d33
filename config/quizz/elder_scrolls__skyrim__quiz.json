@@ -1,0 +1,231 @@
+{
+  "subject": "Elder Scrolls (Skyrim) Quiz",
+  "questions": [
+    {
+      "question": "What is the name of the player character in Skyrim?",
+      "answers": [
+        "The Dragonborn",
+        "The Nerevarine",
+        "The Champion of Cyrodiil",
+        "The Vestige"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Skyrim is part of the continent Tamriel.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Who is the main antagonist in Skyrim?",
+      "answers": [
+        "Mehrunes Dagon",
+        "Alduin",
+        "Molag Bal",
+        "Sheogorath"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What is the name of the city where the Dragonborn first escapes execution?",
+      "answers": [
+        "Whiterun",
+        "Riverwood",
+        "Helgen",
+        "Solitude"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Fus Ro Dah is a type of sword.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What race are the native people of Skyrim?",
+      "answers": [
+        "Imperials",
+        "Nords",
+        "Bretons",
+        "Altmer"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What is the name of the guild for thieves?",
+      "answers": [
+        "Dark Brotherhood",
+        "Companions",
+        "Thieves Guild",
+        "College of Winterhold"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: The Dark Brotherhood is a group of assassins.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which city is known for its large central marketplace and dragonsreach?",
+      "answers": [
+        "Windhelm",
+        "Whiterun",
+        "Markarth",
+        "Riften"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What is the name of the magical school in Skyrim?",
+      "answers": [
+        "Arcane University",
+        "College of Winterhold",
+        "Mages Guild",
+        "Psijic Order"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Ulfric Stormcloak is the High King of Skyrim at the start of the game.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What shout slows time?",
+      "answers": [
+        "Unrelenting Force",
+        "Whirlwind Sprint",
+        "Slow Time",
+        "Dragonrend"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Who leads the Greybeards?",
+      "answers": [
+        "Arngeir",
+        "Delphine",
+        "Esbern",
+        "Paarthurnax"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "True or False: Paarthurnax is an enemy dragon you must kill.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of the Daedric Prince of Madness?",
+      "answers": [
+        "Molag Bal",
+        "Mehrunes Dagon",
+        "Sheogorath",
+        "Azura"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "What material are Daedric weapons primarily made from?",
+      "answers": [
+        "Steel",
+        "Ebony",
+        "Iron",
+        "Glass"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: Riften is known for its strict law enforcement and lack of crime.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "What is the name of the dragon you trap in Dragonsreach?",
+      "answers": [
+        "Alduin",
+        "Odahviing",
+        "Mirmulnir",
+        "Durnehviir"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which faction fights against the Imperials in the civil war?",
+      "answers": [
+        "Stormcloaks",
+        "Thalmor",
+        "Blades",
+        "Forsworn"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "True or False: You can become the leader of the Companions.",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    }
+  ]
+}

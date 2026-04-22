@@ -1,0 +1,425 @@
+{
+  "subject": "2010s Movies Quiz (Advanced)",
+  "questions": [
+    {
+      "question": "Which film won the Academy Award for Best Picture for 2010?",
+      "answers": [
+        "The Social Network",
+        "The King's Speech",
+        "Inception",
+        "Black Swan"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Who directed 'Inception' (2010)?",
+      "answers": [
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "David Fincher",
+        "Ridley Scott"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which actor played Jordan Belfort in 'The Wolf of Wall Street' (2013)?",
+      "answers": [
+        "Matthew McConaughey",
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Christian Bale"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which 2015 film won Best Picture at the Oscars?",
+      "answers": [
+        "The Revenant",
+        "Mad Max: Fury Road",
+        "Spotlight",
+        "The Big Short"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which movie features the fictional African nation of Wakanda?",
+      "answers": [
+        "Avengers: Age of Ultron",
+        "Black Panther",
+        "Captain America: Civil War",
+        "Doctor Strange"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Who directed 'Parasite' (2019)?",
+      "answers": [
+        "Park Chan-wook",
+        "Bong Joon-ho",
+        "Lee Chang-dong",
+        "Kim Ki-duk"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which actress won the Oscar for Best Actress for 'La La Land' (2016)?",
+      "answers": [
+        "Emma Stone",
+        "Natalie Portman",
+        "Amy Adams",
+        "Emma Watson"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which film is the highest-grossing of the 2010s decade?",
+      "answers": [
+        "Avatar",
+        "Avengers: Endgame",
+        "Star Wars: The Force Awakens",
+        "Titanic"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2014 film follows a group of astronauts traveling through a wormhole?",
+      "answers": [
+        "Gravity",
+        "Interstellar",
+        "The Martian",
+        "Arrival"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Who composed the score for 'Interstellar' (2014)?",
+      "answers": [
+        "John Williams",
+        "Hans Zimmer",
+        "Ennio Morricone",
+        "James Horner"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2012 film features Katniss Everdeen as the main character?",
+      "answers": [
+        "Divergent",
+        "The Hunger Games",
+        "Twilight",
+        "The Maze Runner"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which director made 'The Grand Budapest Hotel' (2014)?",
+      "answers": [
+        "Wes Anderson",
+        "Quentin Tarantino",
+        "Paul Thomas Anderson",
+        "Noah Baumbach"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2017 horror film was directed by Jordan Peele?",
+      "answers": [
+        "Us",
+        "Get Out",
+        "Hereditary",
+        "The Witch"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which film won Best Picture at the Oscars for 2016 (famously announced incorrectly at first)?",
+      "answers": [
+        "La La Land",
+        "Moonlight",
+        "Arrival",
+        "Manchester by the Sea"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Who played the character of Harley Quinn in 'Suicide Squad' (2016)?",
+      "answers": [
+        "Scarlett Johansson",
+        "Margot Robbie",
+        "Cara Delevingne",
+        "Gal Gadot"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which 2018 film is a sequel to 'Unbreakable' and 'Split'?",
+      "answers": [
+        "Glass",
+        "The Visit",
+        "Old",
+        "Signs"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which film features the quote 'I am inevitable'?",
+      "answers": [
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Thor: Ragnarok",
+        "Guardians of the Galaxy"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which 2015 film stars Matt Damon stranded on Mars?",
+      "answers": [
+        "Interstellar",
+        "Gravity",
+        "The Martian",
+        "Ad Astra"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which cinematographer won an Oscar for 'Blade Runner 2049' (2017)?",
+      "answers": [
+        "Roger Deakins",
+        "Emmanuel Lubezki",
+        "Wally Pfister",
+        "Janusz Kamiński"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which 2011 film stars Ryan Gosling as a Hollywood stunt driver?",
+      "answers": [
+        "Only God Forgives",
+        "Drive",
+        "Nightcrawler",
+        "The Place Beyond the Pines"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which film won Best Animated Feature at the Oscars for 2013?",
+      "answers": [
+        "Frozen",
+        "Despicable Me 2",
+        "The Croods",
+        "Monsters University"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Who directed 'Django Unchained' (2012)?",
+      "answers": [
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Spike Lee",
+        "Ridley Scott"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which 2019 film features a World War I setting shot to appear as one continuous take?",
+      "answers": [
+        "Dunkirk",
+        "1917",
+        "Hacksaw Ridge",
+        "Fury"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which actor played Freddie Mercury in 'Bohemian Rhapsody' (2018)?",
+      "answers": [
+        "Taron Egerton",
+        "Rami Malek",
+        "Ben Whishaw",
+        "Eddie Redmayne"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which film is based on the novel by Gillian Flynn released in 2014?",
+      "answers": [
+        "Sharp Objects",
+        "Gone Girl",
+        "The Girl on the Train",
+        "Room"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2016 film stars Amy Adams as a linguist communicating with aliens?",
+      "answers": [
+        "Arrival",
+        "Contact",
+        "Annihilation",
+        "Gravity"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which director is known for the 'Dark Knight' trilogy and also directed 'Dunkirk' (2017)?",
+      "answers": [
+        "Christopher Nolan",
+        "Zack Snyder",
+        "J.J. Abrams",
+        "James Cameron"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which 2018 animated film features Miles Morales as Spider-Man?",
+      "answers": [
+        "Spider-Man: Homecoming",
+        "Into the Spider-Verse",
+        "Spider-Man 3",
+        "Venom"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which 2014 film won Best Picture at the Oscars?",
+      "answers": [
+        "Boyhood",
+        "The Imitation Game",
+        "Birdman",
+        "Whiplash"
+      ],
+      "solution": 2,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Who directed 'Mad Max: Fury Road' (2015)?",
+      "answers": [
+        "George Miller",
+        "Peter Jackson",
+        "Ridley Scott",
+        "James Cameron"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2013 film tells the story of a man in a relationship with an AI assistant?",
+      "answers": [
+        "Ex Machina",
+        "Her",
+        "Transcendence",
+        "Upgrade"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which actor played Stephen Hawking in 'The Theory of Everything' (2014)?",
+      "answers": [
+        "Eddie Redmayne",
+        "Benedict Cumberbatch",
+        "Tom Hanks",
+        "Colin Firth"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    },
+    {
+      "question": "Which 2012 film is about the CIA operation to find Osama bin Laden?",
+      "answers": [
+        "Argo",
+        "Zero Dark Thirty",
+        "Captain Phillips",
+        "American Sniper"
+      ],
+      "solution": 1,
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "question": "Which 2017 film features a young woman who can shape-shift into others?",
+      "answers": [
+        "Split",
+        "The Shape of Water",
+        "The Girl with All the Gifts",
+        "Annihilation"
+      ],
+      "solution": 3,
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "question": "Which 2015 Pixar film explores emotions inside a young girl's mind?",
+      "answers": [
+        "Inside Out",
+        "Coco",
+        "Up",
+        "Brave"
+      ],
+      "solution": 0,
+      "cooldown": 5,
+      "time": 10
+    }
+  ]
+}
